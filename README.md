@@ -8,3 +8,4 @@
 
 ## Develoyment of JITAIs
 * 2023 - A Randomized Trial of A Mobile Health Intervention to Augment Cardiac Rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
+* 2023 - The Engagement Problem: a Review of Engagement with Digital Mental Health Interventions and Recommendations for a Path Forward - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
