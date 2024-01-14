@@ -7,4 +7,4 @@
 * 2020 - Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34527853/)]
 
 ## Develoyment of JITAIs
-* 2023 - A randomized trial of a mobile health intervention to augment cardiac rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
+* 2023 - A Randomized Trial of A Mobile Health Intervention to Augment Cardiac Rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
