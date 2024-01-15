@@ -10,3 +10,4 @@
 ## Develoyment of JITAIs
 * 2023 - A Randomized Trial of A Mobile Health Intervention to Augment Cardiac Rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
 * 2023 - The Engagement Problem: a Review of Engagement with Digital Mental Health Interventions and Recommendations for a Path Forward - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
+* 2021 - Sense2Stop: A micro-randomized trial using wearable sensors to optimize a just-in-time-adaptive stress management intervention for smoking relapse prevention = [[Paper](https://www.sciencedirect.com/science/article/pii/S1551714421002706)]
