@@ -13,5 +13,6 @@
 ## Develoyment of JITAIs
 * 2023 - A Randomized Trial of A Mobile Health Intervention to Augment Cardiac Rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
 * 2023 - The Engagement Problem: a Review of Engagement with Digital Mental Health Interventions and Recommendations for a Path Forward - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
+* 2023 - Increasing physical activity using an just-in-time adaptive digital assistant supported by machine learning: A novel approach for hyper-personalised mHealth interventions - [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046423001569)]
 * 2021 - Sense2Stop: A micro-randomized trial using wearable sensors to optimize a just-in-time-adaptive stress management intervention for smoking relapse prevention - [[Paper](https://www.sciencedirect.com/science/article/pii/S1551714421002706)]
 * 2021 - Developing an Adaptive Mobile Intervention to Address Risky Substance Use Among Adolescents and Emerging Adults: Usability Study - [[Paper](https://mhealth.jmir.org/2021/1/e24424/PDF)]
