@@ -6,6 +6,9 @@
 * 2022 - Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-Implementation Guidelines - [[Paper](https://www.mdpi.com/1999-4893/15/8/255)]
 * 2020 - Reinforcement learning for intelligent healthcare applications: A survey - [[Survey Paper](https://www.sciencedirect.com/science/article/pii/S093336572031229X)]
 * 2020 - Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34527853/)]
+* 2017 - Encouraging Physical Activity in Patients With Diabetes: Intervention Using a Reinforcement Learning System - [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654735/)]
+* 2014 - PopTherapy: coping with stress through pop-culture - [[Paper](https://dl.acm.org/doi/10.4108/icst.pervasivehealth.2014.255070)]
+* 
 
 ## Develoyment of JITAIs
 * 2023 - A Randomized Trial of A Mobile Health Intervention to Augment Cardiac Rehabilitation - [[Paper](https://link.springer.com/article/10.1007/s40501-023-00297-3)]
